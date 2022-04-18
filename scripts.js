@@ -1,5 +1,5 @@
 function alertCity(name) {
-    alert(name.innerText);
+    alert(name.innerText + ' Loading weather report...');
 }
 function acceptCookies(){
     document.getElementById("cookies").remove();
