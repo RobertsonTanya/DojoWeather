@@ -79,11 +79,15 @@ main {
 }
 #cookies {
     align-items: center;
+    background-color: white;
+    bottom: 20px;
     border: 2px solid black;
     display: flex;
     justify-content: space-between;
     margin: 20px 0;
     padding: 0 20px;
+    position: fixed;
+    width: 800px;
 }
 #cookies img {
     flex: 1;
